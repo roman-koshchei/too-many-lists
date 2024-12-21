@@ -1,6 +1,4 @@
-use std::{
-    mem::{self},
-};
+use std::mem::{self};
 
 //
 
