@@ -184,7 +184,7 @@ mod test {
         assert_eq!(iter.next(), Some(&2));
         assert_eq!(iter.next(), Some(&1));
     }
-    
+
     #[test]
     fn iter_mut() {
         let mut list = List::new();
