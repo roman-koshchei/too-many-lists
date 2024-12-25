@@ -1,5 +1,4 @@
-use std::{mem, sync::MutexGuard};
-
+use std::mem;
 pub struct List<T> {
     head: Link<T>,
 }
